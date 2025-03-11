@@ -4,7 +4,7 @@ Welcome to the 2D Educational Game, an interactive and engaging experience for k
 
 ## 🌍 Live Demo
 
-🔗 Play the game here: [Shimmering Speculoos](#)
+🔗 Play the game here: [https://shimmering-speculoos-1239f5.netlify.app/](#)
 
 ## 📜 Features
 
