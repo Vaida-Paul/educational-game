@@ -1,0 +1,182 @@
+{
+    "activeFile": "map.json",
+    "expandedProjectPaths": [
+        "tileset",
+        "."
+    ],
+    "fileStates": {
+        "Buildings_Colour2 (1).tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "City_Transparent.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "FarmAnimals.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fonte.tsj": {
+            "scaleInDock": 2,
+            "scaleInEditor": 2
+        },
+        "PlantsGreen.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "PlantsOrange.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "PlantsPink.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "PlantsPurple.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "RPG Nature Tileset Autumn.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 2
+        },
+        "Top down buildings, Chrysope.tsj": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "Water_Tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "benro.tsj": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "bento1.tsj": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 0.5
+        },
+        "buildings.tsj": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "forest.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "hospital.tsj": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "m1p.json": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 635.9999999999999,
+                "y": 484
+            }
+        },
+        "m1p.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 560,
+                "y": 176
+            }
+        },
+        "map.22json.json": {
+            "scale": 2.315625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 215.92442645074223,
+                "y": 103.85964912280703
+            }
+        },
+        "map.22json.json#spritesheet": {
+            "scaleInDock": 1
+        },
+        "map.json": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 786,
+                "y": 340
+            }
+        },
+        "map.json#spritesheet": {
+            "scaleInDock": 1
+        },
+        "map1.json": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -52,
+                "y": 415
+            }
+        },
+        "map12.json": {
+            "scale": 2.315625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 215.92442645074223,
+                "y": 103.85964912280703
+            }
+        },
+        "map12.json#spritesheet": {
+            "scaleInDock": 1
+        },
+        "pp.tsj": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "spritesheet.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "statue.tsj": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 2
+        },
+        "tileset/CCity_mockup.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "tileset/bento.tsj": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "work.json": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.125
+        }
+    },
+    "openFiles": [
+        "map.json",
+        "tileset/bento.tsj",
+        "m1p.tmx"
+    ],
+    "project": "",
+    "recentFiles": [
+        "m1p.tmx",
+        "tileset/bento.tsj",
+        "map.json",
+        "Buildings_Colour2 (1).tsj",
+        "buildings.tsj",
+        "Fonte.tsj",
+        "statue.tsj",
+        "hospital.tsj",
+        "Top down buildings, Chrysope.tsj",
+        "pp.tsj",
+        "benro.tsj",
+        "bento1.tsj"
+    ]
+}

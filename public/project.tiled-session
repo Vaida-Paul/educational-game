@@ -1,0 +1,277 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "D:/UBB/map.json",
+    "expandedProjectPaths": [
+        ".",
+        "tileset"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "Buildings_Colour2 (1).tsj": {
+            "scaleInDock": 1
+        },
+        "City_Transparent.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/UBB/Buildings_Colour2 (1).tsj": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "D:/UBB/City_Transparent.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/UBB/FarmAnimals.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/UBB/Fonte.tsj": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "D:/UBB/PlantsGreen.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/UBB/PlantsOrange.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/UBB/PlantsPink.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/UBB/PlantsPurple.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "D:/UBB/RPG Nature Tileset Autumn.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "D:/UBB/Top down buildings, Chrysope.tsj": {
+            "scaleInDock": 1
+        },
+        "D:/UBB/Water_Tile.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/UBB/benro.tsj": {
+            "scaleInDock": 1
+        },
+        "D:/UBB/bento1.tsj": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "D:/UBB/buildings.tsj": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "D:/UBB/forest.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/UBB/hospital.tsj": {
+            "scaleInDock": 1
+        },
+        "D:/UBB/map.json": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 929,
+                "y": 364
+            }
+        },
+        "D:/UBB/pp.tsj": {
+            "scaleInDock": 1
+        },
+        "D:/UBB/spritesheet.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/UBB/statue.tsj": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "D:/UBB/tileset/CCity_mockup.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "D:/UBB/tileset/bento.tsj": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "FarmAnimals.tsx": {
+            "scaleInDock": 1
+        },
+        "Fonte.tsj": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "PlantsGreen.tsx": {
+            "scaleInDock": 1
+        },
+        "PlantsOrange.tsx": {
+            "scaleInDock": 1
+        },
+        "PlantsPink.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "PlantsPurple.tsx": {
+            "scaleInDock": 1
+        },
+        "RPG Nature Tileset Autumn.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "Top down buildings, Chrysope.tsj": {
+            "scaleInDock": 1
+        },
+        "Water_Tile.tsx": {
+            "scaleInDock": 1
+        },
+        "benro.tsj": {
+            "scaleInDock": 1
+        },
+        "bento1.tsj": {
+            "scaleInDock": 1
+        },
+        "buildings.tsj": {
+            "scaleInDock": 1
+        },
+        "forest.tsx": {
+            "scaleInDock": 1
+        },
+        "hospital.tsj": {
+            "scaleInDock": 1
+        },
+        "m1p.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 559.3333333333333,
+                "y": 277.3333333333333
+            }
+        },
+        "map.json": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 559,
+                "y": 480
+            }
+        },
+        "pp.tsj": {
+            "scaleInDock": 1
+        },
+        "spritesheet.tsx": {
+            "scaleInDock": 1
+        },
+        "statue.tsj": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "tileset/Buildings_Colour2 (1).tsj": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/CCity_mockup.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/FarmAnimals.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/Fonte.tsj": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/PlantsGreen.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/PlantsOrange.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/PlantsPurple.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/Top down buildings, Chrysope.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/Water_Tile.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/benro copy - Copy.tsj": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/benro copy.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/benro.tsj": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/bento.tsj": {
+            "scaleInDock": 1
+        },
+        "tileset/bento1.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/buildings.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/statue.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.externalTilesetPath": "D:/2D-game-IOC/public/tileset",
+    "last.imagePath": "D:/2D-game-IOC/public/tileset",
+    "openFiles": [
+        "D:/UBB/map.json",
+        "tileset/benro.tsj",
+        "tileset/bento1.tsj",
+        "tileset/buildings.tsj",
+        "tileset/Buildings_Colour2 (1).tsj",
+        "tileset/benro copy - Copy.tsj",
+        "tileset/statue.tsj",
+        "tileset/Water_Tile.tsx",
+        "tileset/Top down buildings, Chrysope.tsj",
+        "tileset/benro copy.tsj",
+        "PlantsPink.tsx",
+        "m1p.tmx",
+        "tileset/PlantsPurple.tsx",
+        "tileset/PlantsOrange.tsx",
+        "tileset/PlantsGreen.tsx",
+        "map.json",
+        "tileset/Fonte.tsj",
+        "tileset/FarmAnimals.tsx"
+    ],
+    "project": "project.tiled-project",
+    "recentFiles": [
+        "tileset/FarmAnimals.tsx",
+        "tileset/Fonte.tsj",
+        "map.json",
+        "tileset/PlantsGreen.tsx",
+        "tileset/PlantsOrange.tsx",
+        "tileset/PlantsPurple.tsx",
+        "m1p.tmx",
+        "PlantsPink.tsx",
+        "tileset/benro copy.tsj",
+        "tileset/Top down buildings, Chrysope.tsj",
+        "tileset/Water_Tile.tsx",
+        "tileset/statue.tsj"
+    ]
+}
