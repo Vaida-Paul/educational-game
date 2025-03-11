@@ -39,7 +39,7 @@ Clone this repository and install dependencies:
 ```
 
 
-## 📷 Screenshots
+## 📷 Map structure
 
 ![Game Map](public/map.png)
 
